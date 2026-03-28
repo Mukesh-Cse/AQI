@@ -33,6 +33,16 @@ AQI-Prediction-System/
 ├── confusion_matrix.png
 ```
 
+##  Workflow  
+
+1. Data Collection 
+2. Data Cleaning & Preprocessing  
+3. Exploratory Data Analysis  
+4. Model Training (Multiple Algorithms)  
+5. Model Evaluation & Comparison  
+6. Feature Importance Analysis  
+7. Deployment using Streamlit  
+
 
 ---
 
@@ -84,17 +94,6 @@ Implemented and compared multiple classifiers:
   - Jupyter Notebook  
   - VS Code  
 
----
-
-##  Workflow  
-
-1. Data Collection 
-2. Data Cleaning & Preprocessing  
-3. Exploratory Data Analysis  
-4. Model Training (Multiple Algorithms)  
-5. Model Evaluation & Comparison  
-6. Feature Importance Analysis  
-7. Deployment using Streamlit  
 
 ---
 
