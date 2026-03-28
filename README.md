@@ -10,8 +10,28 @@ Unlike basic ML projects, this system goes beyond model training by including **
 
 ---
 
-## 🎯 Problem Statement  
+##  Problem Statement  
 Air pollution is a major global issue, but traditional AQI calculation methods are static and fail to capture complex pollutant interactions.
+
+
+---
+##  Project Structure  
+
+
+```
+AQI-Prediction-System/
+├── README.md
+├── city_day.csv
+├── notebook.ipynb
+├── app.py
+├── model.pkl
+├── requirements.txt
+├── AQI Report.pdf
+└── images/
+├── heatmap.png
+├── feature_importance.png
+├── confusion_matrix.png
+```
 
 
 ---
@@ -88,26 +108,7 @@ Implemented and compared multiple classifiers:
 
 ---
 
-##  Project Structure  
 
-
-```
-AQI-Prediction-System/
-├── README.md
-├── city_day.csv
-├── notebook.ipynb
-├── app.py
-├── model.pkl
-├── requirements.txt
-├── AQI Report.pdf
-└── images/
-├── heatmap.png
-├── feature_importance.png
-├── confusion_matrix.png
-```
-
-
----
 
 ## How to Run  
 
