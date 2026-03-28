@@ -8,10 +8,6 @@ This project builds a **complete machine learning pipeline** to predict Air Qual
 
 Unlike basic ML projects, this system goes beyond model training by including **data preprocessing, multi-model evaluation, feature analysis, and real-time prediction via a Streamlit web app**.
 
----
-
-##  Problem Statement  
-Air pollution is a major global issue, but traditional AQI calculation methods are static and fail to capture complex pollutant interactions.
 
 
 ---
