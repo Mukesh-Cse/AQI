@@ -11,6 +11,23 @@ Unlike basic ML projects, this system goes beyond model training by including **
 
 
 ---
+
+##  Tech Stack  
+
+- **Language:** Python 3.7  
+- **Libraries:**  
+  - pandas, numpy  
+  - scikit-learn  
+  - matplotlib, seaborn  
+  - joblib  
+  - streamlit  
+
+- **Tools:**  
+  - Jupyter Notebook  
+  - VS Code  
+
+
+---
 ##  Project Structure  
 
 
@@ -76,22 +93,6 @@ Implemented and compared multiple classifiers:
 
 ---
 
-##  Tech Stack  
-
-- **Language:** Python 3.7  
-- **Libraries:**  
-  - pandas, numpy  
-  - scikit-learn  
-  - matplotlib, seaborn  
-  - joblib  
-  - streamlit  
-
-- **Tools:**  
-  - Jupyter Notebook  
-  - VS Code  
-
-
----
 
 ## Results & Insights  
 
