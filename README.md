@@ -50,9 +50,9 @@ Implemented and compared multiple classifiers:
 
 ---
 
-## 🛠️ Tech Stack  
+##  Tech Stack  
 
-- **Language:** Python 3.x  
+- **Language:** Python 3.7  
 - **Libraries:**  
   - pandas, numpy  
   - scikit-learn  
@@ -88,7 +88,7 @@ Implemented and compared multiple classifiers:
 
 ---
 
-## 📁 Project Structure  
+##  Project Structure  
 
 
 ```
@@ -105,3 +105,21 @@ AQI-Prediction-System/
 ├── feature_importance.png
 ├── confusion_matrix.png
 ```
+
+
+---
+
+## How to Run  
+
+```bash
+# Clone repository
+git clone https://github.com/your-username/AQI-Prediction-System.git
+
+# Navigate to project
+cd AQI-Prediction-System
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run Streamlit app
+streamlit run app.py
